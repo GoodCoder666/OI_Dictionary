@@ -1,2 +1,1 @@
-# OI_Dictionary
-OIer 专属词典
+请移步 https://github.com/GoodCoder666/OI-Dictionary。
